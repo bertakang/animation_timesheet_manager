@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="animationtimelinetool.app/Contents/MacOS/animationtimelinetool">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>animationtimelinetool.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>animationtimelinetool.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/bertakang/Documents/GitHub/animation_timesheet_manager/animationtimelinetool/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>animationtimelinetool.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/bertakang/Documents/GitHub/animation_timesheet_manager/animationtimelinetool</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/bertakang/Documents/GitHub/animation_timesheet_manager/animationtimelinetool/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/bertakang/Documents/GitHub/animation_timesheet_manager/animationtimelinetool/bin/Debug/net9.0-maccatalyst/maccatalyst-arm64/animationtimelinetool.app
